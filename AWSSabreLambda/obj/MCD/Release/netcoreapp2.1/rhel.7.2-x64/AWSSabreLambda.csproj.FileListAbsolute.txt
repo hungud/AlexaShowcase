@@ -1,0 +1,11 @@
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\bin\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.deps.json
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\bin\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.runtimeconfig.json
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\bin\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.runtimeconfig.dev.json
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\bin\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.dll
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\bin\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.pdb
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.csprojAssemblyReference.cache
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.csproj.CoreCompileInputs.cache
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.AssemblyInfoInputs.cache
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.AssemblyInfo.cs
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.dll
+D:\Github\ShowCase\AWSLambdaShowcase\AWSSabreLambda\obj\MCD\Release\netcoreapp2.1\rhel.7.2-x64\AWSSabreLambda.pdb
